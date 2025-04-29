@@ -1,5 +1,7 @@
 # Data-Analytics-Projects
-A collection of projects demonstrating proficiency in data analytics and machine learning tools.
+Welcome to my Data Analytics portfolio!
+
+Here you will find a collection of projects demonstrating proficiency in data analytics and machine learning tools.
 
 **Project**|**Description**|**Tools**
 ---|---|---
