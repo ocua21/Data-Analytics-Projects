@@ -11,7 +11,7 @@
 + 1461 Records
 
 `test.csv`
-+ 81 Features
++ 80 Features (Excluding Sale Price)
 + 1461 Records
 
 **High Level Steps**
