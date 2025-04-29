@@ -1,6 +1,6 @@
 # Smart Estate
 
-**Description:** This project creates Decision Tree and Random Forest Machine Learning models to predict the sale price of the homes in the 'test.csv' dataset. 
+**Description:** This project creates Decision Tree and Random Forest Machine Learning models to predict the sale price of the homes in the `test.csv` dataset. 
 
 **Tools & Techniques:** Python(numpy, Jax, pandas, seaborn, matplotlib, fast_ml), Decision Trees, Random Forest
 
